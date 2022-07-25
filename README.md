@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Angel-ship-it
-- 👀 I’m interested in Crafting beautiful web experiences
-- 🌱 I’m currently learning what the cloud is all about
-- 💞️ I’m looking to collaborate on cloud based applications
+- 👀 I love puzzles and programming feels like a never ending puzzle.
+- 🌱 I have built IOS apps, Ruby Web Apps, Done ML And AI in python. Tech stack- Python, JAVA, CSS, HTML, JS , Swift, SwiftUI, some Ruby
 - 📫 How to reach me ... <alm117@duke.edu>
 
 <!---
